@@ -1,2 +1,2 @@
-# samoneyrapper
-Portfolio Artistico e Cultural
+# projeto-apeperia
+Arquivos do projeto para a Apeperia
